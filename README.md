@@ -11,7 +11,7 @@
 6. [Contact](#contact)
 
 ``` 
-As a USER ... I want site where I can post blogs after I login
+As a USER ... I want site where I can see blog posts made by myself or other users
 
 So that ... I can see my posts, comment on others, login, or signup if necessary. 
 ```
@@ -32,11 +32,11 @@ Thanks and happy blogging!
 
 [Repository](https://github.com/joecliffordofficial/tech_blog)
 
-[Heroku]()
+[Heroku](https://tech-blog-jc.herokuapp.com/)
 
 <a name = "video"></a>
 
-[Video]()
+[Video](https://joecliffordofficial.github.io/tech_blog/)
 
 <a name = "installation"></a>
 
