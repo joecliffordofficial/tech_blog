@@ -36,7 +36,7 @@ Thanks and happy blogging!
 
 <a name = "video"></a>
 
-[Video](https://joecliffordofficial.github.io/tech_blog/)
+[Video](https://watch.screencastify.com/v/rkTunc8K1RD2E5KqGSkg)
 
 <a name = "installation"></a>
 
