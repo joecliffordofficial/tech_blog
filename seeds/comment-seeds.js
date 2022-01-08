@@ -9,7 +9,7 @@ const commentData = [{
     comment_text: "Comment text two",
     user_id: 2,
     post_id: 2
-}, 
+},
 {
     comment_text: "Comment text three",
     user_id: 3,
